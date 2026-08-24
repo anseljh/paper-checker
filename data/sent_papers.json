@@ -1,7 +1,22 @@
 {
   "description": "Tracks arXiv cs.IR papers in the legal domain that have already been emailed to the user, to avoid duplicate notifications across scheduled runs.",
-  "last_run": "2026-08-19T06:40:05Z",
+  "last_run": "2026-08-24T00:00:00Z",
   "sent_papers": [
+    {
+      "id": "2608.20246",
+      "title": "What Makes a Good Fiqh Retriever? Answer Retrieval for Arabic Islamic Jurisprudence",
+      "sent_date": "2026-08-24"
+    },
+    {
+      "id": "2608.18752",
+      "title": "GreekBarRetrieval: A Benchmark for Greek Statutory Retrieval",
+      "sent_date": "2026-08-24"
+    },
+    {
+      "id": "2608.16918",
+      "title": "Sparse Coverage: Semantic Center Representations for Patent Prior-Art Retrieval",
+      "sent_date": "2026-08-24"
+    },
     {
       "id": "2608.11030v1",
       "title": "Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching",
