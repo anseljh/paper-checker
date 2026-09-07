@@ -1,7 +1,12 @@
 {
   "description": "Tracks arXiv cs.IR papers in the legal domain that have already been emailed to the user, to avoid duplicate notifications across scheduled runs.",
-  "last_run": "2026-08-19T06:40:05Z",
+  "last_run": "2026-09-07T00:00:00Z",
   "sent_papers": [
+    {
+      "id": "2608.29284v1",
+      "title": "Cloud and On-Premises Deployment of Uzbek Legal RAG via Targeted Retriever Fine-Tuning",
+      "sent_date": "2026-09-07"
+    },
     {
       "id": "2608.11030v1",
       "title": "Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching",
