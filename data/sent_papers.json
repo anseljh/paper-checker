@@ -1,7 +1,17 @@
 {
   "description": "Tracks arXiv cs.IR papers in the legal domain that have already been emailed to the user, to avoid duplicate notifications across scheduled runs.",
-  "last_run": "2026-08-19T06:40:05Z",
+  "last_run": "2026-09-14T00:00:00Z",
   "sent_papers": [
+    {
+      "id": "2609.10293",
+      "title": "GANDR: Claim Auditing for Verifiable Legal Answer Generation",
+      "sent_date": "2026-09-14"
+    },
+    {
+      "id": "2609.08185",
+      "title": "Cassette: Case-to-Case Structural Distillation for Efficient Legal Case Retrieval",
+      "sent_date": "2026-09-14"
+    },
     {
       "id": "2608.11030v1",
       "title": "Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching",
