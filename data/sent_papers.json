@@ -1,6 +1,6 @@
 {
   "description": "Tracks arXiv cs.IR papers in the legal domain that have already been emailed to the user, to avoid duplicate notifications across scheduled runs.",
-  "last_run": "2026-08-19T06:40:05Z",
+  "last_run": "2026-09-21T16:07:00Z",
   "sent_papers": [
     {
       "id": "2608.11030v1",
@@ -21,6 +21,66 @@
       "id": "2608.03756v1",
       "title": "LegalPincite: Multi-level Legal Information Retrieval Dataset",
       "sent_date": "2026-08-19"
+    },
+    {
+      "id": "2608.18752v2",
+      "title": "GreekBarRetrieval: A Benchmark for Greek Statutory Retrieval",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2608.20246v1",
+      "title": "What Makes a Good Fiqh Retriever? Answer Retrieval for Arabic Islamic Jurisprudence",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2608.22036v1",
+      "title": "SARCLIP: A Scalable CLIP-Based Retrieval System for Seventeenth-Century Spanish American Notary Records",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2608.23241v1",
+      "title": "Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2608.26685v1",
+      "title": "BLANC: Discovering Patent White Space via Changes in Normalized Pointwise Mutual Information Between Multi-View Clusters",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2608.27746v1",
+      "title": "NormasTCU --- A Brazilian Portuguese IR Dataset and an Evaluation of LLM-as-a-Judge for Relevance Assessment",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2608.28555v1",
+      "title": "QUEST: A Query and Extraction System for Topics in Asylum Law Application Decisions",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2608.29284v1",
+      "title": "Cloud and On-Premises Deployment of Uzbek Legal RAG via Targeted Retriever Fine-Tuning",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2609.08185v1",
+      "title": "Cassette: Case-to-Case Structural Distillation for Efficient Legal Case Retrieval",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2609.10293v1",
+      "title": "GANDR: Claim Auditing for Verifiable Legal Answer Generation",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2609.11572v1",
+      "title": "TimelyRAG: Semantic-Temporal Hybrid Retrieval for Time-Critical Question Answering in Overlapping-Evolving Documents",
+      "sent_date": "2026-09-21"
+    },
+    {
+      "id": "2609.17366v1",
+      "title": "Lexplorer: Navigating the Complexity of Legal Document Landscapes",
+      "sent_date": "2026-09-21"
     }
   ]
 }
