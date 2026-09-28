@@ -1,6 +1,6 @@
 {
   "description": "Tracks arXiv cs.IR papers in the legal domain that have already been emailed to the user, to avoid duplicate notifications across scheduled runs.",
-  "last_run": "2026-08-19T06:40:05Z",
+  "last_run": "2026-09-28T16:00:00Z",
   "sent_papers": [
     {
       "id": "2608.11030v1",
@@ -21,6 +21,36 @@
       "id": "2608.03756v1",
       "title": "LegalPincite: Multi-level Legal Information Retrieval Dataset",
       "sent_date": "2026-08-19"
+    },
+    {
+      "id": "2609.27814",
+      "title": "LabourCrew: A Multi-Agent RAG Framework for Trustworthy Adversarial Deliberation and Statutory Reasoning over Labour Law",
+      "sent_date": "2026-09-28"
+    },
+    {
+      "id": "2609.27359",
+      "title": "Automated Extraction of Records of Processing Activities (RoPA) Using Hybrid RAG and Locally Deployed Large Language Models",
+      "sent_date": "2026-09-28"
+    },
+    {
+      "id": "2609.27009",
+      "title": "LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning",
+      "sent_date": "2026-09-28"
+    },
+    {
+      "id": "2609.26237",
+      "title": "ABAI at COLIEE 2026 Task 1: Multi-Stage Retrieval with GraphRAG-Enhanced Meta-Learning, and a Post-Hoc Study of the Cross-Validation-to-Test Gap",
+      "sent_date": "2026-09-28"
+    },
+    {
+      "id": "2609.24613",
+      "title": "UK-PRBENCH: A Paragraph-Level Precedent Retrieval Benchmark for United Kingdom Case Law",
+      "sent_date": "2026-09-28"
+    },
+    {
+      "id": "2609.22529",
+      "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
+      "sent_date": "2026-09-28"
     }
   ]
 }
