@@ -1,6 +1,6 @@
 {
   "description": "Tracks arXiv cs.IR papers in the legal domain that have already been emailed to the user, to avoid duplicate notifications across scheduled runs.",
-  "last_run": "2026-08-19T06:40:05Z",
+  "last_run": "2026-10-05T16:10:00Z",
   "sent_papers": [
     {
       "id": "2608.11030v1",
@@ -21,6 +21,16 @@
       "id": "2608.03756v1",
       "title": "LegalPincite: Multi-level Legal Information Retrieval Dataset",
       "sent_date": "2026-08-19"
+    },
+    {
+      "id": "2610.01553v1",
+      "title": "From Rules to Neural Graphs: Scalable Structured Prediction for Patent Prior Art Search",
+      "sent_date": "2026-10-05"
+    },
+    {
+      "id": "2609.31660v1",
+      "title": "Parser, Chunking, and Embedding Interactions in Retrieval-Augmented Generation over Indian Government Regulatory Documents",
+      "sent_date": "2026-10-05"
     }
   ]
 }
