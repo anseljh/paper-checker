@@ -1,6 +1,6 @@
 {
   "description": "Tracks arXiv cs.IR papers in the legal domain that have already been emailed to the user, to avoid duplicate notifications across scheduled runs.",
-  "last_run": "2026-08-19T06:40:05Z",
+  "last_run": "2026-10-19T16:10:00Z",
   "sent_papers": [
     {
       "id": "2608.11030v1",
@@ -21,6 +21,26 @@
       "id": "2608.03756v1",
       "title": "LegalPincite: Multi-level Legal Information Retrieval Dataset",
       "sent_date": "2026-08-19"
+    },
+    {
+      "id": "2610.18622v1",
+      "title": "Structural Segmentation for Brazilian Legal Document Retrieval",
+      "sent_date": "2026-10-19"
+    },
+    {
+      "id": "2610.16925v1",
+      "title": "Comparing GenAI to Machine Learning and Manual Review for eDiscovery",
+      "sent_date": "2026-10-19"
+    },
+    {
+      "id": "2610.23346v1",
+      "title": "Jev-as-a-Judge for Brazilian Portuguese Information Retrieval: Relevance Assessment and Reranking",
+      "sent_date": "2026-10-19"
+    },
+    {
+      "id": "2610.21300v1",
+      "title": "Making every stage of medical device document assessment with large language models deterministic",
+      "sent_date": "2026-10-19"
     }
   ]
 }
