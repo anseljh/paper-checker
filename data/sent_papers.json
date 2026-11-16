@@ -1,6 +1,6 @@
 {
   "description": "Tracks arXiv cs.IR papers in the legal domain that have already been emailed to the user, to avoid duplicate notifications across scheduled runs.",
-  "last_run": "2026-08-19T06:40:05Z",
+  "last_run": "2026-11-16T16:11:43Z",
   "sent_papers": [
     {
       "id": "2608.11030v1",
@@ -21,6 +21,161 @@
       "id": "2608.03756v1",
       "title": "LegalPincite: Multi-level Legal Information Retrieval Dataset",
       "sent_date": "2026-08-19"
+    },
+    {
+      "id": "2611.09200v1",
+      "title": "Structure and Lineage Evidence for Vietnamese Statutory Article Retrieval on DRiLL",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2610.35240v1",
+      "title": "Reading Beyond OCR Noise: Robust Cross-Lingual RAG for Legislative Archives",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2610.31311v2",
+      "title": "The Delayed Countdown Method for Validating Review-Oriented AI Workflows in eDiscovery",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2610.18622v1",
+      "title": "Structural Segmentation for Brazilian Legal Document Retrieval",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2610.07437v2",
+      "title": "A Study of Prior Case Retrieval Using Lexical, Semantic, and Rhetorical Role Information in Indian Legal Documents",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.27814v1",
+      "title": "LabourCrew: A Multi-Agent RAG Framework for Trustworthy Adversarial Deliberation and Statutory Reasoning over Labour Law",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.27009v2",
+      "title": "LEGO: Synergizing Expert GraphRAG and Expert Chain-of-Thought for Legal Reasoning",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.24613v1",
+      "title": "UK-PRBENCH: A Paragraph-Level Precedent Retrieval Benchmark for United Kingdom Case Law",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.22529v1",
+      "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.17366v1",
+      "title": "Lexplorer: Navigating the Complexity of Legal Document Landscapes",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.11572v1",
+      "title": "TimelyRAG: Semantic-Temporal Hybrid Retrieval for Time-Critical Question Answering in Overlapping-Evolving Documents",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.10293v1",
+      "title": "GANDR: Claim Auditing for Verifiable Legal Answer Generation",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.15830v1",
+      "title": "CiteGuard-RAG: A Validation-Centered AI System for Evidence-Grounded Question Answering",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.08185v1",
+      "title": "Cassette: Case-to-Case Structural Distillation for Efficient Legal Case Retrieval",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.27359v1",
+      "title": "Automated Extraction of Records of Processing Activities (RoPA) Using Hybrid RAG and Locally Deployed Large Language Models",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2608.29284v1",
+      "title": "Cloud and On-Premises Deployment of Uzbek Legal RAG via Targeted Retriever Fine-Tuning",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2608.28555v1",
+      "title": "QUEST: A Query and Extraction System for Topics in Asylum Law Application Decisions",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2608.27746v1",
+      "title": "NormasTCU --- A Brazilian Portuguese IR Dataset and an Evaluation of LLM-as-a-Judge for Relevance Assessment",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2608.20246v2",
+      "title": "What Makes a Good Fiqh Retriever? Answer Retrieval for Arabic Islamic Jurisprudence",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2608.18752v3",
+      "title": "GreekBarRetrieval: A Benchmark for Greek Statutory Retrieval",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2611.17012v1",
+      "title": "Anonymous in Name Only: A Critical Review and a Reidentification Exercise on the European Commission's Anonymization Measures for Google Search Data under Article 6(11) of the DMA",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2611.09194v1",
+      "title": "Large Language Model Consensus and Corpus-Adaptive Topic Modeling for Classifying and Mapping Patent Innovation",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2610.33503v1",
+      "title": "Novel or Not? PatEx-Gym: Agentic Prior-Art Search for Novelty Assessment in Patent Examination",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2610.29521v1",
+      "title": "X-Embedding: Two-Stage Training for Multilingual Patent Prior-Art Retrieval",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2610.30175v2",
+      "title": "FormBench: A Benchmark for Fine-Grained Retrieval in Formulation Patents",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2610.01553v1",
+      "title": "From Rules to Neural Graphs: Scalable Structured Prediction for Patent Prior Art Search",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2608.26685v1",
+      "title": "BLANC: Discovering Patent White Space via Changes in Normalized Pointwise Mutual Information Between Multi-View Clusters",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2609.31660v1",
+      "title": "Parser, Chunking, and Embedding Interactions in Retrieval-Augmented Generation over Indian Government Regulatory Documents",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2611.13595v1",
+      "title": "IFRS Compliance Verification: An Open Multi-LLM Benchmark and Content-Conditioned Ensemble Classifier",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2610.21300v1",
+      "title": "Making every stage of medical device document assessment with large language models deterministic",
+      "sent_date": "2026-11-16"
+    },
+    {
+      "id": "2608.23241v1",
+      "title": "Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents",
+      "sent_date": "2026-11-16"
     }
   ]
 }
